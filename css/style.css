@@ -208,7 +208,7 @@ figure {
         display: inline;
         list-style: none; }
         #aside .footer ul li a {
-          color: rgba(255, 255, 255, 0.3);
+          color: rgba(70, 255, 255, 0.4);
           padding: 4px; }
           #aside .footer ul li a:hover, #aside .footer ul li a:active, #aside .footer ul li a:focus {
             text-decoration: none;
